@@ -1,4 +1,6 @@
 # Berlin Traffic Accidents 2018-2020
+[PDF of final presentation](https://github.com/Romes-Kalt/Berlin_traffic_accidents_2018-2020/blob/main/Traffic_analysis_presentation.pdf)
+
 ### Final Project @ IronHack (Data Analytics Bootcamp, Jan-Mar 2022)
 ### by Selena Eberwein & Roman Kaltschew
 
